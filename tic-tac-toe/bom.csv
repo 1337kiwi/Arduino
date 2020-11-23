@@ -1,0 +1,7 @@
+Name,Quantity,Component
+"UArduino",1," Arduino Uno R3"
+"U1, U2, U3",3," 8-Bit Shift Register"
+"UIR Sensor",1," IR sensor"
+"R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21",20,"220 Ω Resistor"
+"D2, D4, D6, D8, D10, D12, D14, D16, D18, D20",10,"Red LED"
+"D3, D5, D7, D9, D11, D13, D15, D17, D19, D21",10,"Blue LED"
